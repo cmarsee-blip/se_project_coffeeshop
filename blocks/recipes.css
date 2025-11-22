@@ -27,6 +27,15 @@
   justify-content: center;
   gap: 40px;
   list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recipes__iframe {
+  border: none;
+  display: block;
+  width: 480px;
+  height: 270px;
 }
 
 .recipes__video-caption {
